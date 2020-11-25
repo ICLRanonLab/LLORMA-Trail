@@ -18,6 +18,8 @@ The evaluation code is given in this GitHub repository in different settings.(xx
 
 The evaluation is based on the p and q vector that the LLORMA generate. Thus the test run commented some of the futher steps of LLORMA after p and q are made.
 
+The real data(GEO data) is also evaluated based on p and q, by Pearson Correlation, for detail you can find in APPENDIX section in the paper.
+
 
 
 
