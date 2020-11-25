@@ -1,5 +1,5 @@
 # LLORMA-Trail
-Test setting code example for paper:
+Simulation test setting code example for paper:
 
 The simulation testing data is generated from \LLORMA-Trail\data\ptmatrix-500\L1\test\fitMain.py, settings are already written in the bash files.
 
