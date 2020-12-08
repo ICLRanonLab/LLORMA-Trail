@@ -20,6 +20,7 @@ The evaluation is based on the p and q vector that the LLORMA generate. Thus the
 
 The real data(GEO data) is also evaluated based on p and q, by Pearson Correlation, for detail you can find in APPENDIX section in the paper.
 
+For processed GSE Data you can download from Google Drive Link https://drive.google.com/drive/folders/1kx3OFMhwQIV9nggtObA9KxQpnl_rdqKL?usp=sharing
 
 
 
